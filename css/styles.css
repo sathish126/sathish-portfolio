@@ -2,9 +2,6 @@
     font-family: 'Poppins', sans-serif;
 }
 .banner{
-    background-image: url(/portfolio/photos/sap.avif);
-    background-size: cover;
-    background-repeat: no-repeat;
     padding: 250px 0px;
 }
 .skills-padding{
